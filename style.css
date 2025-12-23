@@ -7,15 +7,10 @@ body {
   padding: 20px;
 }
 
-/* ページ全体の最大幅 */
 body {
   max-width: 900px;
   margin: 0 auto;
 }
-
-/* ==========================================
-   見出しのスタイル（セレクタ1）
-   ========================================== */
 
 h1 {
   font-size: 28px;
@@ -35,10 +30,6 @@ h2 {
   padding-left: 12px;
 }
 
-/* ==========================================
-   段落と基本テキスト（セレクタ2）
-   ========================================== */
-
 p {
   font-size: 15px;
   margin-bottom: 15px;
@@ -55,10 +46,6 @@ li {
   margin-bottom: 8px;
   font-size: 15px;
 }
-
-/* ==========================================
-   表のスタイル（セレクタ3）
-   ========================================== */
 
 table {
   width: 100%;
@@ -85,11 +72,6 @@ table tr:hover {
   background-color: #f0f7ff;
 }
 
-/* ==========================================
-   その他の要素
-   ========================================== */
-
-/* ナビゲーション */
 nav {
   text-align: center;
   margin-bottom: 30px;
@@ -109,7 +91,6 @@ nav a:hover {
   text-decoration: underline;
 }
 
-/* リンク */
 a {
   color: #1a5490;
   text-decoration: none;
@@ -119,7 +100,6 @@ a:hover {
   text-decoration: underline;
 }
 
-/* 画像 */
 img {
   max-width: 100%;
   height: auto;
@@ -127,7 +107,6 @@ img {
   border-radius: 5px;
 }
 
-/* イタリック（図表の説明など） */
 em {
   display: block;
   font-size: 13px;
