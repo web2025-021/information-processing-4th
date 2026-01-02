@@ -58,13 +58,13 @@ table {
 table th {
   background-color: #1a5490;
   color: #fff;
-  padding: 12px;
+  padding: 25px;
   text-align: left;
   font-weight: bold;
 }
 
 table td {
-  padding: 12px;
+  padding: 25px;
   border-bottom: 1px solid #ddd;
 }
 
