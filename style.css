@@ -104,11 +104,11 @@ th:nth-child(1) {
 }
 
 th:nth-child(2) {
-  width: 15%;
+  width: 11;
 }
 
 th:nth-child(3) {
-  width: 65%;
+  width: 69%;
 }
 
 .flex-box {
