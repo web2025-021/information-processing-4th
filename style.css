@@ -46,6 +46,17 @@ li {
   font-size: 15px;
 }
 
+nav a {
+  color: #1a5490;
+  text-decoration: none;
+  margin: 0 15px;
+  font-weight: bold;
+}
+
+nav a:hover {
+  color: #0d3a6b;
+  text-decoration: underline;
+}
 
 a {
   color: #1a5490;
