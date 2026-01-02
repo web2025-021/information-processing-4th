@@ -113,7 +113,7 @@ th:nth-child(3) {
 }
 table th {
   background-color: #1a5490;
-  color: #1a5490;
+  color: #fff;
   padding: 12px;
   text-align: left;
   font-weight: bold;
