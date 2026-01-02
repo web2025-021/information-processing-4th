@@ -46,6 +46,13 @@ li {
   font-size: 15px;
 }
 
+nav {
+  text-align: center;
+  margin-bottom: 30px;
+  padding-bottom: 15px;
+  border-bottom: 1px solid #ccc;
+}
+
 nav a {
   color: #1a5490;
   text-decoration: none;
@@ -85,7 +92,7 @@ em {
 table {
   width: 100%;
   border-collapse: collapse;
-  margin: 20px 0;
+  margin: 30px 0;
   background-color: #fff;
   box-shadow: 0 2px 4px rgba(0,0,0,0.1);
 }
