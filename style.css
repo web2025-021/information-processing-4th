@@ -110,6 +110,23 @@ th:nth-child(2) {
 
 th:nth-child(3) {
   width: 60%;
+  
+}
+table th {
+  background-color: #1a5490;
+  color: #fff;
+  padding: 12px;
+  text-align: left;
+  font-weight: bold;
+}
+
+table td {
+  padding: 12px;
+  border-bottom: 1px solid #ddd;
+}
+
+table tr:hover {
+  background-color: #f0f7ff;
 }
 
 .flex-box {
