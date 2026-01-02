@@ -136,7 +136,7 @@ table tr:hover {
 }
 
 .fleex-box {
-  display: fleex;
+  display: flex;
   align-items: center;
   gap: 10px;  
 }
