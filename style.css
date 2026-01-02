@@ -100,16 +100,16 @@ table {
 }
 
 th:nth-child(1) {
-  width: 30%;
+  width: 27%;
   background-color: #f2f2f2;
 }
 
 th:nth-child(2) {
-  width: 10%;
+  width: 15%;
 }
 
 th:nth-child(3) {
-  width: 60%;
+  width: 58%;
   
 }
 table th {
@@ -133,4 +133,10 @@ table tr:hover {
   display: flex;
   align-items: center;
   gap: 20px;  
+}
+
+.flex-box {
+  display: fleex;
+  align-items: center;
+  gap: 10px;  
 }
