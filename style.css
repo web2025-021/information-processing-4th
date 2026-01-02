@@ -110,3 +110,9 @@ th:nth-child(2) {
 th:nth-child(3) {
   width: 65%;
 }
+
+.flex-box {
+  display: flex;
+  align-items: center;
+  gap: 20px;  
+}
